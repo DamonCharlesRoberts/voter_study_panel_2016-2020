@@ -1,4 +1,4 @@
----
+
 <h4 align="center">Replication Code: Connecting Leaves to the Forest</h4>
 <p align="center">
     <a href="https://github.com/DamonCharlesRoberts/voter_study_panel_2016-2020/commits/main">
